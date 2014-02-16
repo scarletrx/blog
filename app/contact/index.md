@@ -14,4 +14,4 @@ For press and media requests, interviews, and features: press@umayamu.com
 
 For press releases, invitations, sponsorships, marketing, and collaborations: pr@umayamu.com
 
-* *Inquiries are answered within 48 hours, Monday through Friday, circumstances permitting.*
+*Inquiries are answered within 48 hours, Monday through Friday, circumstances permitting.*
