@@ -4,4 +4,4 @@ title: Accessories
 ---
 
 
-This is where our Accessories posts live.
+This is where our exquisite Accessories posts live.
