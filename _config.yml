@@ -4,7 +4,7 @@
 # 3. config.yml
 
 name: umayamu.com
-description: 
+description: none
 author:
   name: Aamaal Abdul-Malik
   email: aamaal@umayamu.com
@@ -16,10 +16,12 @@ exclude: ['img', 'css', 'js', 'fonts',
 include: ['.htaccess']
 
 # _config.build.yml sets future and show_drafts to false on `grunt build`
-future: true
-show_drafts: true
+future: false
+show_drafts: false
 
-permalink: pretty
+relative_permalinks: true
+
+permalink: /archive/:year/:month/:day/:title
 paginate: 5
 paginate_path: 'page:num'
 
