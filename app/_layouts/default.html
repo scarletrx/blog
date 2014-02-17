@@ -10,14 +10,14 @@
     <!-- Place favicon.ico and apple-touch-icon(s) in the root directory -->
 
     <!-- build:css({app,.tmp}) /css/main.css -->
-    <link rel="stylesheet" href="/_bower_components/normalize-css/normalize.css">
+    <link rel="stylesheet" href="/packages/normalize-css/normalize.css">
     <link rel="stylesheet" href="/css/syntax.css">
     <link rel="stylesheet" href="/css/main.css">
     <!-- endbuild -->
 
     <!-- build:js(app) /js/head-scripts.js -->
     <!-- Replace with a custom modernizer build for production -->
-    <script src="/_bower_components/modernizr/modernizr.js"></script>
+    <script src="/packages/modernizr/modernizr.js"></script>
     <!-- endbuild -->
 
   </head>
@@ -28,7 +28,9 @@
 
     {% include header.html %}
 
-    {{ content }}
+    {% include content.html %}
+
+    {% include pagination.html %}
 
     {% include footer.html %}
 
