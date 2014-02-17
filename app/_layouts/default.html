@@ -13,11 +13,14 @@
     <link rel="stylesheet" href="/packages/normalize-css/normalize.css">
     <link rel="stylesheet" href="/css/syntax.css">
     <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/tumblr.css">
     <!-- endbuild -->
 
     <!-- build:js(app) /js/head-scripts.js -->
     <!-- Replace with a custom modernizer build for production -->
     <script src="/packages/modernizr/modernizr.js"></script>
+    <script type="text/javascript" src="//use.typekit.net/tsx7wdz.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
     <!-- endbuild -->
 
   </head>
@@ -25,7 +28,7 @@
     <!--[if lt IE 8]>
         <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
-
+    <div id="page">
     {% include header.html %}
 
     {% include content.html %}
@@ -36,6 +39,6 @@
 
     {% include scripts.html %}
     {% include googleanalytics.html %}
-
+    </div>
   </body>
 </html>

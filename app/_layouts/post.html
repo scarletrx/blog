@@ -3,4 +3,8 @@ layout: default
 ---
 <article class="post">
 {{ content }}
+
+    {% for tag in post.tags %}
+        {{ tag }}
+    {% endfor %}
 </article>
