@@ -83,13 +83,13 @@ a:active {
 }
 
 
-.metadata a, #footer-links a, #footer p.promo a, .links a {
+.metadata a, #footer-links a, footer p.promo a, .links a {
     color: #ffffff;
     font-family: "futura-pt", "futura-pt", helvetica, arial, sans-serif;
     border-bottom: none;
 }
 
-.metadata a:hover, #footer-links a:hover, #footer p.promo a:hover, .links a:hover, .more a:hover, a.mobile-player:hover {
+.metadata a:hover, #footer-links a:hover, footer p.promo a:hover, .links a:hover, .more a:hover, a.mobile-player:hover {
     color: #ffffff;
 }
 
@@ -111,7 +111,7 @@ body {
     font-weight: normal;
 }
 
-.title h1, .link-title h1, .chat-title h1, .q h1, .a h1, .album-info h2, #footer h2 {
+.title h1, .link-title h1, .chat-title h1, .q h1, .a h1, .album-info h2, footer h2 {
     font-family: Garamond, "futura-pt", sans serif;
     font-weight: bold;
 }
@@ -546,12 +546,12 @@ p.question {
 /* Footer
 ********************************/
 
-#footer {
+footer {
     text-align: center;
     margin-bottom: 40px;
 }
 
-#footer a {
+footer a {
     text-decoration: none;
     border-bottom: none;
 }
@@ -560,7 +560,7 @@ a.back-next {
     margin: 0px 10px 0px 10px;
 }
 
-#footer h2 {
+footer h2 {
     font-size: 24px;
     text-align: center;
     margin-bottom: 40px;
@@ -584,12 +584,12 @@ a.back-next {
     margin-left: 0px;
 }
 
-#footer .colophon p {
+footer .colophon p {
     font-size: 14px;
     font-style: italic;
 }
 
-#footer p.promo {
+footer p.promo {
     font-size: 12px;
     text-transform: uppercase;
     font-style: normal;
