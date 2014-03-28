@@ -18,9 +18,14 @@ Here are a few more pieces from her most recent collection:
 For more information and to make orders inside and outside of Kuwait, please contact Jamal via WhatsApp at +96599836883. The Jamal Collection can be viewed on [Instagram][1].
 
 ---
-Credits:
+_Credits:_
 [JAMALCOLLECTION][2]
 
-All photos courtesy of Jamal Al-Najadah.
+_All photos courtesy of Jamal Al-Najadah._
 
-The post [PATTERN PLAY: The Jamal Collection by Jamal Al-Najadah][3] appeared first on [UMAYAMU][4].
+_The post [PATTERN PLAY: The Jamal Collection by Jamal Al-Najadah][3] appeared first on [UMAYAMU][4]._
+
+[1]: http://www.instagram.com/jamal_collection
+[2]: http://www.instagram.com/jamal_collection
+[3]: {{ page.url }}
+[4]: /
