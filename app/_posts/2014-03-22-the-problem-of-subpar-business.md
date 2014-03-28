@@ -3,9 +3,13 @@ layout: default
 date: "2014-03-22 09:30:00"
 title: "The Problem of Subpar Business Operations Within the American Muslim Community"
 type: post
-tags: fashion business events standards perception psychology
+tags: fashion business events standards perception psychology marketing
 comments: true
 ---
+
+![Old Yazd, Iran](img/Yazd2_cro.jpg)
+
+#The Problem of Subpar Business Operations Within the American Muslim Community
 
 The cancellation of the anticipated International Muslimah Fashion Week event provoked a multitude of emotions from the Muslim Fashion community. It is understandable tensions ran (and are still running) high due to the amount of time and money attendees invested into preparing for participation. But an overwhelming display of an external locus of control has been observed from those directly and indirectly affected by the event's cancellation. An external locus of control is "the belief that events in one’s life, whether good or bad, are caused by uncontrollable factors such as the environment, other people, or a higher power"[(Grinnell, 2009)][1].
 
