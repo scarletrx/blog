@@ -152,3 +152,4 @@ local.properties
 
 # Custom
 .jekyll
+_bower_components
