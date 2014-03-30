@@ -1,13 +1,13 @@
 ---
 layout: default
 date: "2013-07-02 10:00:15"
-title: "PATTERN PLAY: The Jamal Collection by Jamal Al-Najadah"
+title: "PATTERN PLAY: THE JAMAL COLLECTOIN BY JAMAL AL-NAJADAH"
 type: post
-tags: luxury fashion apparel designer traditional jalabiya jamalnadah kuwait
+tags: luxury fashion apparel dresses jalabiya jamalnadah kuwait ramadaan craftsmanship tradition heritage culture
 comments: true
 ---
 
-#PATTERN PLAY: The Jamal Collection by Jamal Al-Najadah
+#PATTERN PLAY: THE JAMAL COLLECTOIN BY JAMAL AL-NAJADAH
 
 When some people think of Muslim women, they oftentimes envision us wearing all Black clothing. Always. This may be true for some women and there is nothing wrong with doing so. Some feel more comfortable in solid colors and it compliments them well. Then there are those who express their individuality through various choices in color, pattern, and style of clothing. And what better time to show a personal sense of style than at a special event or gathering? If you adore mixing colors, patterns, and embroidery, then The Jamal Collection by Jamal Al-Najadah may become your new obsession.
 
