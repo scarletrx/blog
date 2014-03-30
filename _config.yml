@@ -22,7 +22,7 @@ show_drafts: false
 relative_permalinks: true
 
 permalink: /archive/:year/:month/:day/:title
-paginate: 5
+paginate: 1
 paginate_path: 'page:num'
 
 # Markdown library

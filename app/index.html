@@ -5,7 +5,7 @@ title: Your New Jekyll Site
 
 <section class="home posts">
 
-  <!-- {% for post in site.posts %} -->
+  {% for post in paginator.posts %}
     <article class="post text">
         <div class="narrow">
             <div class="caption">
@@ -23,5 +23,5 @@ title: Your New Jekyll Site
             {% endfor %}
         </div>
     </article>
-  <!-- {% endfor %} -->
+  {% endfor %}
 </section>
