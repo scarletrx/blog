@@ -23,7 +23,7 @@ relative_permalinks: true
 
 permalink: /archive/:year/:month/:day/:title
 paginate: 1
-paginate_path: 'page:num'
+paginate_path: 'page/:num'
 
 # Markdown library
 markdown: kramdown
@@ -41,3 +41,6 @@ markdown: kramdown
 #     coderay_css: style
 
 pygments: true
+
+tag_page_layout: tag_page
+tag_page_dir: tagged
