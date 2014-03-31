@@ -5,6 +5,7 @@ title: "NVIT BLANCHE: The Rituals of Craftsmanship"
 type: post
 tags: nvitblanche luxury jewellery jewelry usa nyc davidhines agta craftsmanship culture heritage
 comments: true
+alias: /post/64874116512/nvit-blanche-the-rituals-of-craftsmanship/index.html
 ---
 
 # NVIT BLANCHE: The Rituals of Craftsmanship

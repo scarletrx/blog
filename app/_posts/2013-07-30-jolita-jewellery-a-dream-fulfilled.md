@@ -5,6 +5,7 @@ title: "JOLITA JEWELLERY: A DREAM FULFILLED"
 type: post
 tags: jolitajewellery luxury fashion accessories jewellery jewelry london england lithuania artisan craftsmanship heritage tradition culture
 comments: true
+alias: /post/56889829118/jolita-jewellery-a-dream-fulfilled/index.html
 ---
 
 #JOLITA JEWELLERY: A DREAM FULFILLED

@@ -5,6 +5,7 @@ title: "The Problem of Subpar Business Operations Within the American Muslim Com
 type: post
 tags: fashion business events standards perception psychology marketing
 comments: true
+alias: /post/80469668813/the-problem-of-subpar-business-operations-within/index.html
 ---
 
 ![Old Yazd, Iran](img/Yazd2_cro.jpg)

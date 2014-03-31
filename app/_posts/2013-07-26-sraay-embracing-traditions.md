@@ -5,6 +5,7 @@ title: "SRAAY: EMBRACING TRADITIONS"
 type: post
 tags: jolitajewellery luxury fashion accessories jewellery jewelry london england lithuania artisan craftsmanship heritage tradition culture
 comments: true
+alias: /post/56520094394/sraay-embracing-traditions/index.html
 ---
 
 #SRAAY: EMBRACING TRADITIONS

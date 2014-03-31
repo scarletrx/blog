@@ -5,6 +5,7 @@ title: "AAMAAL LOVES… THE ABAYA COMPANY"
 type: post
 tags: aamaalloves theabayacompany fashion apparel abaya abayat uae dubai style craftsmanship heritage
 comments: true
+alias: /post/58486976217/aamaal-loves-the-abaya-company/index.html
 ---
 
 #AAMAAL LOVES… THE ABAYA COMPANY

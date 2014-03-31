@@ -5,6 +5,7 @@ title: "SARAH’S BAG: THE ART OF SOCIAL CHANGE"
 type: post
 tags: sarahsbag luxury fashion accessories handbags beirut lebanon socialchange women artisan craftsmanship heritage tradition culture
 comments: true
+alias: /post/56320662068/sarahs-bag-the-art-of-social-change/index.html
 ---
 
 #SARAH’S BAG: THE ART OF SOCIAL CHANGE

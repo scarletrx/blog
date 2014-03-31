@@ -5,6 +5,7 @@ title: "THE LUXURY OF CULTURE: THOUB ZAHRA"
 type: post
 tags: thoubzahra luxury fashion apparel kuwait artisan craftsmanship heritage tradition culture
 comments: true
+alias: /post/57821027857/thoub-zahra-the-luxury-of-culture/index.html
 ---
 
 #THE LUXURY OF CULTURE: THOUB ZAHRA

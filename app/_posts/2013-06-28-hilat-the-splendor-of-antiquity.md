@@ -5,6 +5,7 @@ title: "HILAT: THE SPLENDOR OF ANTIQUITY"
 type: post
 tags: hilat fashion accessories jewellery jewelry gold istanbul turkey artisan craftsmanship heritage tradition culture
 comments: true
+alias: /post/54108714567/hilat-the-splendor-of-antiquity-gold-its/index.html
 ---
 
 #HILAT: THE SPLENDOR OF ANTIQUITY
