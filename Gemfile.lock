@@ -45,6 +45,7 @@ GEM
       ffi (>= 0.5.0)
     rb-kqueue (0.2.0)
       ffi (>= 0.5.0)
+    rdiscount (2.1.7)
     redcarpet (2.3.0)
     safe_yaml (0.9.7)
     sass (3.2.14)
@@ -59,3 +60,4 @@ DEPENDENCIES
   compass (>= 0.12)
   jekyll (~> 1.4.0)
   kramdown
+  rdiscount (= 2.1.7)

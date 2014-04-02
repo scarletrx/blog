@@ -1,17 +1,13 @@
 ---
-layout: default
+layout: post
 date: "2014-03-22 09:30:00"
 title: "The Problem of Subpar Business Operations Within the American Muslim Community"
-type: post
 tags: fashion business events standards perception psychology marketing
 comments: true
+image: /images/Yazd2_cro.jpg
+caption: "Old Yazd, Iran"
 alias: /post/80469668813/the-problem-of-subpar-business-operations-within/index.html
 ---
-
-![Old Yazd, Iran](img/Yazd2_cro.jpg)
-
-#The Problem of Subpar Business Operations Within the American Muslim Community
-
 The cancellation of the anticipated International Muslimah Fashion Week event provoked a multitude of emotions from the Muslim Fashion community. It is understandable tensions ran (and are still running) high due to the amount of time and money attendees invested into preparing for participation. But an overwhelming display of an external locus of control has been observed from those directly and indirectly affected by the event's cancellation. An external locus of control is "the belief that events in one’s life, whether good or bad, are caused by uncontrollable factors such as the environment, other people, or a higher power"[(Grinnell, 2009)][1].
 
 The external locus of control given by many is to classify the event as 'a scam', which has provided a false sense of comfort and justification in placing all blame upon the event organizer(s). I will touch on the 'scam' classification a bit later. However concerning the responsibility of blame, rarely does the participation in and outcome of a situation involving two or more people solely rest upon one party. There were numerous signs from the very beginning and many turned a blind eye to these signs, choosing nonetheless to forge ahead. These signs were clearly defined but the overwhelming existence of accepting and celebrating low-quality events and irresponsible business dealings runs rampant amongst the Muslim community. And until consumers hold businesses and entities accountable and demand high-quality, professional events and offerings, we will still continue to receive whatever they have deemed acceptable.

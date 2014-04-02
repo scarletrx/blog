@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: post
 date: "2013-07-02 10:00:15"
 title: "PATTERN PLAY: THE JAMAL COLLECTOIN BY JAMAL AL-NAJADAH"
-type: post
 tags: luxury fashion apparel dresses jalabiya jamalnadah kuwait ramadaan craftsmanship tradition heritage culture
 comments: true
 alias: /post/54370771875/pattern-play-the-jamal-collection-by-jamal/index.html

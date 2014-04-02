@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: post
 date: "2013-10-12 09:30:00"
 title: "ARABESQUE: Ethereal Opulence — Fall/Winter 2013 Collection"
-type: post
 tags: arabesque luxury fashion apparel abaya abayat hautecouture abudhabi uae judithduriez craftsmanship culture heritage
 comments: true
 alias: /post/64002449872/arabesque-ethereal-opulence-fall-winter-2013/index.html

@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: post
 date: "2013-06-28 09:30:00"
 title: "HILAT: THE SPLENDOR OF ANTIQUITY"
-type: post
 tags: hilat fashion accessories jewellery jewelry gold istanbul turkey artisan craftsmanship heritage tradition culture
+categories: jewellery
 comments: true
 alias: /post/54108714567/hilat-the-splendor-of-antiquity-gold-its/index.html
 ---

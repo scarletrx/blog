@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: post
 date: "2013-07-18 09:30:00"
 title: "WAHAT AL-JALABIYA: JEWELS IN THE DESERT"
-type: post
 tags: wahataljalabiya fashion apparel jalabiya dresses elegance jeddah cairo sanaa saudi egypt yemen craftsmanship heritage tradition culture
 comments: true
 alias: /post/55776349719/wahat-al-jalabiya-jewels-in-the-desert/index.html

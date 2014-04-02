@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: post
 date: "2013-09-27 09:30:00"
 title: "THE PEAK OF LUXURY: Record Breaking Innovations at World Luxury Expo - Abu Dhabi"
-type: post
 tags: worldluxuryexpo luxury event expo jewellery jewelry accessories fashion automotive middleeast uae abudhabi doha qatar saudiarabia denmark germany spain italy craftsmanship heritage
 comments: true
 alias: /post/62426923766/the-peak-of-luxury-record-breaking-innovations-at/index.html

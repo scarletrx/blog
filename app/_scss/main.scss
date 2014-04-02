@@ -99,8 +99,16 @@ textarea {
    ========================================================================== */
 
 
+.metadata {
+  a:hover {
+    text-decoration:underline;
+  }
+}
 
-
+h1.page-title > a:visited, a:link, a:hover {
+  text-decoration: none !important;
+  border: 0pxs;
+}
 
 
 

@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: post
 date: "2013-10-23 09:30:00"
 title: "NVIT BLANCHE: The Rituals of Craftsmanship"
-type: post
 tags: nvitblanche luxury jewellery jewelry usa nyc davidhines agta craftsmanship culture heritage
 comments: true
 alias: /post/64874116512/nvit-blanche-the-rituals-of-craftsmanship/index.html

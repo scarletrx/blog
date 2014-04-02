@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: post
 date: "2013-08-09 09:30:00"
 title: "THE LUXURY OF CULTURE: THOUB ZAHRA"
-type: post
 tags: thoubzahra luxury fashion apparel kuwait artisan craftsmanship heritage tradition culture
 comments: true
 alias: /post/57821027857/thoub-zahra-the-luxury-of-culture/index.html

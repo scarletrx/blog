@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: post
 date: "2013-07-10 09:30:00"
 title: "LAMLI: A QUEST FOR MINIMALIST LUXURY"
-type: post
 tags: lamli fashion apparel abaya dresses elegance riyadh dubai toronto saudiarabia uae canada craftsmanship heritage tradition culture
 comments: true
 alias: post/55108114357/lamli-a-quest-for-minimalist-luxury/index.html

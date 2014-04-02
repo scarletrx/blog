@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: post
 date: "2013-10-11 09:30:00"
 title: "ROULE &amp; COMPANY: Playing With Your Jewels"
-type: post
 tags: rouleandcompany luxury accessories jewellery jewelry gold gemstones usa nyc artisan craftsmanship
 comments: true
 alias: /post/63822329440/roule-company-playing-with-your-jewels/index.html
