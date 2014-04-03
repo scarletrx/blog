@@ -7,10 +7,9 @@ categories: jewellery
 comments: true
 alias: /post/56889829118/jolita-jewellery-a-dream-fulfilled/index.html
 image: http://farm8.staticflickr.com/7315/9400000907_f72c36478e_o.jpg
+caption:
 excerpt: "&quot;Dreams are your subconscious working out problems and creating inspiration…&quot; I fondly remember a close relative mentioning this to me when I told them of an interesting dream I had the previous evening. There are several books and theories that have been written concerning dreams, why they occur, what they mean, and how can we incorporate them into our lives for positive psychological reinforcement and change. Additionally, artists have pulled from their dreams for as long as art has been in existence."
 ---
-![Florence Necklace][1]
-
 "Dreams are your subconscious working out problems and creating inspiration…" I fondly remember a close relative mentioning this to me when I told them of an interesting dream I had the previous evening. There are several books and theories that have been written concerning dreams, why they occur, what they mean, and how can we incorporate them into our lives for positive psychological reinforcement and change. Additionally, artists have pulled from their dreams for as long as art has been in existence. For instance, if you have ever listened to the title-cut, ["Leap of Faith"][2] by singer [Kenny Loggins][3], it was written from several dreams he had over a period of time.
 
 At times, some seem to discourage learning and building from dreams. However, I believe we should use our dreams to create goals we can work toward and provide ourselves a sense of purpose to push past living an ordinary life. Seeking an extraordinary life requires going out of our comfort zones, welcoming uncertainty, and work through our fears to achieve our goals. The nature of design requires designers to recognize fears and work through them to achieve desired goals. In many ways, I believe some nightmares are visions of our fears and some dreams are roadmaps to defeating those fears. Inspiration is almost always found in the oddest places, and one designer who embraces being inspired by his dreams is Lithuanian-born jewelry designer Algis Abromaitis of JOLITA JEWELLERY.
@@ -46,7 +45,7 @@ _Photos courtesy of JOLITA JEWELLERY._
 
 _The post [JOLITA JEWELLERY: A Dream Fulfilled][27] appeared first on [UMAYAMU][28]._
 
-   [1]: http://farm8.staticflickr.com/7315/9400000907_f72c36478e_o.jpg
+   [1]: {{page.image}}
    [2]: http://youtu.be/NEH6nLcQam0 (Leap of Faith on YouTube)
    [3]: http://www.kennyloggins.com/ (Kenny Loggins - Official Website)
    [4]: http://www.artofmanliness.com/2012/10/29/memento-mori-art/ (Momento Mori: Art to Help You Meditate on Death and Become a Better Man)
