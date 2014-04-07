@@ -48,17 +48,16 @@ Photos courtesy of ROULE &amp; COMPANY FINE JEWELRY and PERIOD MEDIA
 
 The post ROULE &amp; COMPANY: PLAYING WITH YOUR JEWELS appeared first on [UMAYAMU][22].
 
-   [1]: http://farm4.staticflickr.com/3753/10208639475_a0c9e4a3f3_o.jpg
-   [2]: http://farm8.staticflickr.com/7416/10208758643_755e33188e_o.jpg
-   [3]: http://farm4.staticflickr.com/3669/10208749953_85753b7acd_o.jpg
+   [2]: /images/002_rouleco.jpg
+   [3]: /images/003_rouleco.jpg
    [4]: http://www.notredamedeparis.fr/spip.php?article448
-   [5]: http://farm4.staticflickr.com/3668/10208651976_75c7ee8ba0_o.jpg
-   [6]: http://farm4.staticflickr.com/3688/10208651296_cd5d88377d_o.jpg
-   [7]: http://farm4.staticflickr.com/3789/10208651526_be12ac6e4a_o.jpg
-   [8]: http://farm6.staticflickr.com/5488/10208639615_6bf362195a_o.jpg
-   [9]: http://farm4.staticflickr.com/3723/10208750093_2494e06d1c_o.jpg
-   [10]: http://farm4.staticflickr.com/3779/10208541994_488c581965_o.jpg
-   [11]: http://farm4.staticflickr.com/3750/10208651926_ac25b8deeb_o.jpg
+   [5]: /images/004_rouleco.jpg
+   [6]: /images/005_rouleco.jpg
+   [7]: /images/006_rouleco.jpg
+   [8]: /images/007_rouleco.jpg
+   [9]: /images/008_rouleco.jpg
+   [10]: /images/009_rouleco.jpg
+   [11]: /images/010_rouleco.jpg
    [12]: http://www.bergdorfgoodman.com/
    [13]: mailto:contact@rouleandcompany.com?subject=Hello%20ROULE%20&amp;%20COMPANY!&amp;body=I%20saw%20your%20feature%20on%20UMAYAMU%20and%20want%20more%20information%20about%20your%20collection.
    [14]: http://www.rouleandcompany.com/
