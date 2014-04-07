@@ -14,6 +14,8 @@ excerpt: "Dreams are your subconscious working out problems and creating inspira
 
 At times, some seem to discourage learning and building from dreams. However, I believe we should use our dreams to create goals we can work toward and provide ourselves a sense of purpose to push past living an ordinary life. Seeking an extraordinary life requires going out of our comfort zones, welcoming uncertainty, and work through our fears to achieve our goals. The nature of design requires designers to recognize fears and work through them to achieve desired goals. In many ways, I believe some nightmares are visions of our fears and some dreams are roadmaps to defeating those fears. Inspiration is almost always found in the oddest places, and one designer who embraces being inspired by his dreams is Lithuanian-born jewelry designer Algis Abromaitis of JOLITA JEWELLERY.
 
+[[]][6]
+
 One week in 2008, Algis had a recurring dream about a bracelet. The dream became so tiring that near the end of the week, he asked a friend to take him to a bead shop so he could buy materials to make a bracelet. After visiting the bead shop, he has been making jewelry ever since. With encouragement from his sister, Jolita, the brand’s co-founder and namesake, Algis decided to make his passion a business. Working from his design studio in London, he meticulously makes each piece offered, opulent, vividly colored statement jewelry in the form of bracelets, earrings, cuffs, and more. Each piece included hand-dyed silks and hand-painted rhinestones, all done by Algis himself. He also includes new and vintage materials from around the world. His method of design creates a collection where no pieces are alike, adding a sense of exclusivity and luxury to the line.
 
 From years of traveling, Algis decided to give JOLITA JEWLELLERY the Latin slogan, “Urbi et Orbi”, which means, “To the city and to the World.” When he finally settled in London, he recalled how young men entering Rome for the first-time were greeted:
@@ -30,20 +32,22 @@ Momento Mori is a genre of art that has been used a motivation for living life t
 
 I was first introduced to JOLITA JEWELLERY over a year ago on [BOTICCA][5], a site where independent designers can sell their products to a global audience. I am so glad to see how far Algis and Jolita have come with their brand. The collection makes me smile and one can’t help but feel happy when wearing one of Algis’ beautiful creations. Check out some of my favorite looks from the JOLITA JEWELLERY Spring/Summer 2013 collection below:
 
-![Hamptons Necklace][6] ![Brussels Necklace][7] ![Barcelona Necklace][8] ![Czarevna Earrings][9] ![Alexandria Necklace][10] ![Tangier Necklace][11] ![Karaleva Earrings][12] ![St.Petersburg Necklace][13] ![Seychelles Necklace][14] ![Kniginia Earrings][15] ![Prague Necklace][16] ![Madrid Necklace][17]
 
 JOLITA JEWELLERY is available in several boutiques around the globe and directly from the designer himself. Orders are also accepted for ready-made and bespoke (custom) jewelry designs. For more information on orders and availability, please contact Jolita by [email][18] or visit their [website][19]. Stay updated on JOLITA JEWELLERY news and new collections by subscribing to their [blog][20], liking their [Facebook][21] page, and following them on [Instagram][22] and [Twitter][23].
 
 * * *
 
 _Credits:_
-_[JOLITA JEWELLERY][24]
-[BOTICCA][25]
-[THE ART OF MANLINESS][26] _
+
+_[JOLITA JEWELLERY][24]_
+
+_[BOTICCA][25]_
+
+_[THE ART OF MANLINESS][26]_
 
 _Photos courtesy of JOLITA JEWELLERY._
 
-_The post [JOLITA JEWELLERY: A Dream Fulfilled][27] appeared first on [UMAYAMU][28]._
+_The post JOLITA JEWELLERY: A DREAM FULFILLED appeared first on [UMAYAMU][28]._
 
    [1]: {{page.image}}
    [2]: http://youtu.be/NEH6nLcQam0 (Leap of Faith on YouTube)
