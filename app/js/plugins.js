@@ -22,6 +22,3 @@
 }());
 
 // Place any jQuery/helper plugins in here.
-$(document).ready(function() {
-  $(".fancybox").fancybox();
-});
