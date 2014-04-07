@@ -1,17 +1,15 @@
 ---
 layout: post
 date: "2013-10-11 09:30:00"
-title: "ROULE &amp; COMPANY: Playing With Your Jewels"
+title: "ROULE &amp; COMPANY: PLAYING WITH YOUR JEWELS"
 tags: rouleandcompany luxury accessories jewellery jewelry gold gemstones usa nyc artisan craftsmanship
+categories: jewellery
 comments: true
+image: /images/001_rouleco.jpg
+caption: "Roule & Company Octagon Cocktail Rings"
 alias: /post/63822329440/roule-company-playing-with-your-jewels/index.html
+excerpt: "For more than two decades, Christopher has created a collection of innovative and iconic jewelry, using streamlined simplicity, tactile communication, and kinetic movement as his touchstones. ROULE &amp; COMPANY’s signature Shaker designs feature Christopher’s trademark wireform technique, which he has developed and refined for many years. With elements of architecture and industrial design, ROULE &amp; COMPANY’s design aesthetic feels much like the highly disciplined design concepts of an engineer or architect."
 ---
-
-
-#ROULE &amp; COMPANY: Playing With Your Jewels
-
-![Roule &amp; Company Octagonal Cocktail Rings][1]
-
 When was the last time you played? Think about it. When was the last time you stepped away from the chaos of life, sat down, and played? As we grow older, we tend to “have” less and less time to play. Those of us who make it a point to get out and play are often pegged as being “childish”. I find this label to be a bit unfair, as the term usually means one is not fully developed or lacking as an adult. Why is playing viewed as an undesirable activity for adults?
 
 In my opinion, setting aside playtime, yes, playtime, throughout the week is an excellent way to get exercise and lessen stress. The more responsibilities we have as an adult, the more stress we gain. Stress is not my friend. When I am stressed, my work suffers, along with much of everything else in my life. As a writer and graphic designer, being stressed while working on a project will greatly reduce my ability to provide engaging solutions. If possible, I will step away from a stressful situation to regroup and change my mood. When I feel well, I work well.
@@ -38,26 +36,28 @@ ROULE &amp; COMPANY is available exclusively at [BERGDORF GOODMAN][12]. For more
 
 * * *
 
-_Credits:
-[ROULE &amp; COMPANY FINE JEWELRY][14]
-[PERIOD MEDIA][19]
-[CATHÉDRALE NOTRE-DAME DE PARIS][20]_
+_Credits:_
+
+_[ROULE &amp; COMPANY FINE JEWELRY][14]_
+
+_[PERIOD MEDIA][19]_
+
+_[CATHÉDRALE NOTRE-DAME DE PARIS][20]_
 
 Photos courtesy of ROULE &amp; COMPANY FINE JEWELRY and PERIOD MEDIA
 
-The post [ROULE &amp; COMPANY: Playing With Your Jewels][21]&nbsp;appeared first on [UMAYAMU][22].
+The post ROULE &amp; COMPANY: PLAYING WITH YOUR JEWELS appeared first on [UMAYAMU][22].
 
-   [1]: http://farm4.staticflickr.com/3753/10208639475_a0c9e4a3f3_o.jpg
-   [2]: http://farm8.staticflickr.com/7416/10208758643_755e33188e_o.jpg
-   [3]: http://farm4.staticflickr.com/3669/10208749953_85753b7acd_o.jpg
+   [2]: /images/002_rouleco.jpg
+   [3]: /images/003_rouleco.jpg
    [4]: http://www.notredamedeparis.fr/spip.php?article448
-   [5]: http://farm4.staticflickr.com/3668/10208651976_75c7ee8ba0_o.jpg
-   [6]: http://farm4.staticflickr.com/3688/10208651296_cd5d88377d_o.jpg
-   [7]: http://farm4.staticflickr.com/3789/10208651526_be12ac6e4a_o.jpg
-   [8]: http://farm6.staticflickr.com/5488/10208639615_6bf362195a_o.jpg
-   [9]: http://farm4.staticflickr.com/3723/10208750093_2494e06d1c_o.jpg
-   [10]: http://farm4.staticflickr.com/3779/10208541994_488c581965_o.jpg
-   [11]: http://farm4.staticflickr.com/3750/10208651926_ac25b8deeb_o.jpg
+   [5]: /images/004_rouleco.jpg
+   [6]: /images/005_rouleco.jpg
+   [7]: /images/006_rouleco.jpg
+   [8]: /images/007_rouleco.jpg
+   [9]: /images/008_rouleco.jpg
+   [10]: /images/009_rouleco.jpg
+   [11]: /images/010_rouleco.jpg
    [12]: http://www.bergdorfgoodman.com/
    [13]: mailto:contact@rouleandcompany.com?subject=Hello%20ROULE%20&amp;%20COMPANY!&amp;body=I%20saw%20your%20feature%20on%20UMAYAMU%20and%20want%20more%20information%20about%20your%20collection.
    [14]: http://www.rouleandcompany.com/
@@ -67,5 +67,4 @@ The post [ROULE &amp; COMPANY: Playing With Your Jewels][21]&nbsp;appeared first
    [18]: http://www.pinterest.com/rouleandcompany
    [19]: http://www.periodmedia.com
    [20]: http://www.notredamedeparis.fr/
-   [21]: http://www.umayamu.com/post/63822329440/roule-company-playing-with-your-jewels
    [22]: http://www.umayamu.com/

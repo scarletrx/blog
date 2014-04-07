@@ -28,26 +28,31 @@ The entire HILAT line can be viewed at their website, [http://www.hilat.com][7].
 
 * * *
 
-_Credits: _
+_Credits:_
+
 _[HILAT][8]_
-_THE O GROUP [Case Study][9] | [2013 COUTURE Las Vegas][10]_
-_[LUXE INTELLIGENCE
-][11][COUTURE MUSINGS][12]_
+
+_[THE O GROUP Case Study][9]_
+
+_[2013 COUTURE Las Vegas][10]_
+
+_[LUXE INTELLIGENCE][11]_
+
+_[COUTURE MUSINGS][12]_
 
 _All photos courtesy of HILAT._
 
-_The post&nbsp;[HILAT: The Splendor of Antiquity][13]&nbsp;appeared first on&nbsp;[UMAYAMU][14]._
+_The post HILAT: THE SPLENDOR OF ANTIQUITY appeared first on&nbsp;[UMAYAMU][14]._
 
    [1]: /images/001_hilat.jpg "Test"
    [2]: /images/002_hilat.jpg "Test"
    [3]: /images/003_hilat.jpg
    [4]: /images/005_hilat.jpg
-   [6]: http://www.thecoutureshow.com/ (The COUTURE Show)
-   [7]: http://www.hilat.com/en (HILAT)
-   [8]: http://hilat.com/en (HILAT)
-   [9]: http://bit.ly/16EGScS (HILAT Case Study)
-   [10]: http://on.fb.me/1aUi6Jl (HILAT 2013 COUTURE Booth)
-   [11]: http://on.fb.me/128IBUg (LUXE INTELLIGENCE)
-   [12]: http://bit.ly/14eP2bQ (Couture Musings | Hilat's Design Inspiration)
-   [13]: http://www.umayamu.com/private/59081050446/tumblr_mrwadmJB0F1rrh8l4 (HILAT: The Splendor of Antiquity)
-   [14]: http://www.umayamu.com (UMAYAMU)
+   [6]: http://www.thecoutureshow.com/
+   [7]: http://www.hilat.com/en
+   [8]: http://hilat.com/en
+   [9]: http://bit.ly/16EGScS
+   [10]: http://on.fb.me/1aUi6Jl
+   [11]: http://on.fb.me/128IBUg
+   [12]: http://bit.ly/14eP2bQ
+   [14]: http://www.umayamu.com
