@@ -16,7 +16,7 @@ In this age of technological advancement and mass production, it is refreshing t
 
 Since opening HILAT in 1971, Elmas gathers Istanbul’s most skilled artisans to handcraft exquisite jewelry from the finest gemstones and pure 24-Karat gold. His love of ancient history, culture, and mythology, fuels his passionate desire to create modern, museum-quality pieces through ancient jewelry-crafting techniques, such as granulation, piercing, and filigree. Every piece of HILAT jewelry passes through many talented hands, thanks to a guild-like network of artisans. This workflow allows the artisans to add their own stories and marks of beauty to the line, making them torchbearers of Istanbul’s rich and glittering artistic heritage.
 
-![001][2]![002][3]![003][4]![005][5]
+![001][1]![002][2]![003][3]![004][4]
 
 Earlier this month, HILAT made their North American debut at [COUTURE Las Vegas][6], the luxury jewelry and timepiece show held annually at the Wynn Resort. The collection was well received by show attendees and will be available at exclusive US luxury retailers within the coming months.
 
@@ -34,11 +34,10 @@ _All photos courtesy of HILAT._
 
 _The post&nbsp;[HILAT: The Splendor of Antiquity][13]&nbsp;appeared first on&nbsp;[UMAYAMU][14]._
 
-   [1]: http://imageshack.com/a/img203/3240/hb5a.jpg
-   [2]: http://imageshack.com/a/img203/6092/f6xu.jpg
-   [3]: http://imageshack.com/a/img202/1825/6lzq.jpg
-   [4]: http://imageshack.com/a/img38/594/sknl.jpg
-   [5]: http://imageshack.com/a/img89/8694/b48b.jpg
+   [1]: /images/001_hilat.jpg
+   [2]: /images/002_hilat.jpg
+   [3]: /images/003_hilat.jpg
+   [4]: /images/005_hilat.jpg
    [6]: http://www.thecoutureshow.com/ (The COUTURE Show)
    [7]: http://www.hilat.com/en (HILAT)
    [8]: http://hilat.com/en (HILAT)
