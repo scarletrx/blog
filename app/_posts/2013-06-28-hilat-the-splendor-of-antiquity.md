@@ -4,7 +4,7 @@ date: "2013-06-28 09:30:00"
 title: "HILAT: THE SPLENDOR OF ANTIQUITY"
 tags: hilat fashion accessories jewellery jewelry gold istanbul turkey artisan craftsmanship heritage tradition culture
 categories: jewellery
-comments: true
+comments: false
 alias: /post/54108714567/hilat-the-splendor-of-antiquity-gold-its/index.html
 image: /images/004_hilat.jpg
 caption: "Hilat Jewellery, Istanbul"
@@ -16,7 +16,6 @@ In this age of technological advancement and mass production, it is refreshing t
 
 Since opening HILAT in 1971, Elmas gathers Istanbul’s most skilled artisans to handcraft exquisite jewelry from the finest gemstones and pure 24-Karat gold. His love of ancient history, culture, and mythology, fuels his passionate desire to create modern, museum-quality pieces through ancient jewelry-crafting techniques, such as granulation, piercing, and filigree. Every piece of HILAT jewelry passes through many talented hands, thanks to a guild-like network of artisans. This workflow allows the artisans to add their own stories and marks of beauty to the line, making them torchbearers of Istanbul’s rich and glittering artistic heritage.
 
-
 [![001][1]][1]
 [![002][2]][2]
 [![003][3]][3]
@@ -26,7 +25,7 @@ Earlier this month, HILAT made their North American debut at [COUTURE Las Vegas]
 
 The entire HILAT line can be viewed at their website, [http://www.hilat.com][7].
 
-* * *
+---
 
 _Credits:_
 
