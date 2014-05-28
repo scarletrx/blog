@@ -10,6 +10,7 @@ caption: "Emirates Palace - World Luxury Expo 2013: Abu Dhabi"
 alias: /post/62426923766/the-peak-of-luxury-record-breaking-innovations-at/index.html
 excerpt: "The World Luxury Expo series showcases a selection of the world’s leading luxury brands including fine art, high-end jewellery, fashion, hand-crafted time pieces, designer furniture and exquisite table settings, luxury automobiles, fine dining, private aviation, and luxury travel."
 ---
+
 World Luxury Expo - Abu Dhabi, the third edition of the World Luxury Expo series from the [World Luxury Group][2], launched today at the magnificent [Emirates Palace][3] and will continue to the 29th of September 2013.
 
 The World Luxury Expo series showcases a selection of the world’s leading luxury brands including fine art, high-end jewellery, fashion, hand-crafted time pieces, designer furniture and exquisite table settings, luxury automobiles, fine dining, private aviation, and luxury travel. All participating exhibitors are leaders in their respective fields, who constantly strive for the ultimate in quality and perfection. This exhibition of carefully selected luxury will be presented in one spectacular venue, where access is by invitation-only.
@@ -52,7 +53,7 @@ Following the Abu Dhabi edition, World Luxury Expo will continue on to Doha from
 
 For more information on this weekend’s Abu Dhabi event, please visit [www.worldluxuryexpo-abudhabi.com][29]. Pre-registration is still available at this [link][30].
 
-* * *
+----
 
 _CREDITS:_
 
