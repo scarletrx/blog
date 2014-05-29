@@ -10,6 +10,7 @@ image: /images/004_hilat.jpg
 caption: "Hilat Jewellery, Istanbul"
 excerpt: "In this age of technological advancement and mass production, it is refreshing to find designers/artisans who value and honor history, culture, natural materials, and the pursuit of masterly craftsmanship. Embracing these time-honored virtues, artisans are continuing a rich heritage of artistic excellence. One designer who prides himself on this achievement is Hilat Elmas of HILAT."
 ---
+ 
 Gold—its warmth and beauty have mesmerized mankind for centuries. As one of the most prized metals on Earth, every civilization has used gold to leave their marks of heritage and interpretations of beauty, adornment, and prestige. The first articles of gold I ever encountered were from the Tutankhamun exhibit (which are now on their way back to Egypt for permanent exhibition at the Cairo Museum). Afterwards, I was introduced to gold jewelry from the Etruscans, known for their micro granulation technique, and the Byzantines and the Ottomans. All four civilizations adored gold and excelled in crafting the malleable metal into some of the most beautiful examples of human skill and imagination. These discoveries definitely influenced my love of history and ancient civilizations.
 
 In this age of technological advancement and mass production, it is refreshing to find designers/artisans who value and honor history, culture, natural materials, and the pursuit of masterly craftsmanship. Embracing these time-honored virtues, artisans are continuing a rich heritage of artistic excellence. One designer who prides himself on this achievement is Hilat Elmas of HILAT.
@@ -25,7 +26,7 @@ Earlier this month, HILAT made their North American debut at [COUTURE Las Vegas]
 
 The entire HILAT line can be viewed at their website, [http://www.hilat.com][7].
 
----
+----
 
 _Credits:_
 
@@ -41,10 +42,10 @@ _[COUTURE MUSINGS][12]_
 
 _All photos courtesy of HILAT._
 
-_The post HILAT: THE SPLENDOR OF ANTIQUITY appeared first on&nbsp;[UMAYAMU][14]._
+_This post, [HILAT: THE SPLENDOR OF ANTIQUITY][13], appeared first on [UMAYAMU][14]._
 
-   [1]: /images/001_hilat.jpg "Test"
-   [2]: /images/002_hilat.jpg "Test"
+   [1]: /images/001_hilat.jpg
+   [2]: /images/002_hilat.jpg
    [3]: /images/003_hilat.jpg
    [4]: /images/005_hilat.jpg
    [6]: http://www.thecoutureshow.com/
@@ -54,4 +55,5 @@ _The post HILAT: THE SPLENDOR OF ANTIQUITY appeared first on&nbsp;[UMAYAMU][14].
    [10]: http://on.fb.me/1aUi6Jl
    [11]: http://on.fb.me/128IBUg
    [12]: http://bit.ly/14eP2bQ
+   [13]: {{ post.url }}
    [14]: http://www.umayamu.com

@@ -2,7 +2,7 @@
 layout: post
 date: "2013-07-30 09:30:00"
 title: "JOLITA JEWELLERY: A DREAM FULFILLED"
-tags: jolitajewellery luxury fashion accessories jewellery jewelry london england lithuania artisan craftsmanship heritage tradition culture
+tags: luxury fashion accessories jewellery jewelry jolitajewellery london england lithuania artisan craftsmanship heritage tradition culture
 categories: jewellery
 comments: false
 image: /images/001_jolita.jpg
@@ -10,11 +10,12 @@ caption: "Florence Necklace"
 alias: /post/56889829118/jolita-jewellery-a-dream-fulfilled/index.html
 excerpt: "Dreams are your subconscious working out problems and creating inspiration…&quot; I fondly remember a close relative mentioning this to me when I told them of an interesting dream I had the previous evening. There are several books and theories that have been written concerning dreams, why they occur, what they mean, and how can we incorporate them into our lives for positive psychological reinforcement and change. Additionally, artists have pulled from their dreams for as long as art has been in existence."
 ---
-"Dreams are your subconscious working out problems and creating inspiration…" I fondly remember a close relative mentioning this to me when I told them of an interesting dream I had the previous evening. There are several books and theories that have been written concerning dreams, why they occur, what they mean, and how can we incorporate them into our lives for positive psychological reinforcement and change. Additionally, artists have pulled from their dreams for as long as art has been in existence. For instance, if you have ever listened to the title-cut, ["Leap of Faith"][2] by singer [Kenny Loggins][3], it was written from several dreams he had over a period of time.
+
+"Dreams are your subconscious working out problems and creating inspiration…" I fondly remember a close relative mentioning this to me when I told them of an interesting dream I had the previous evening. There are several books and theories that have been written concerning dreams, why they occur, what they mean, and how can we incorporate them into our lives for positive psychological reinforcement and change. Additionally, artists have pulled from their dreams for as long as art has been in existence. For instance, if you have ever listened to the title-cut, ["Leap of Faith"][1] by singer [Kenny Loggins][2], it was written from several dreams he had over a period of time.
 
 At times, some seem to discourage learning and building from dreams. However, I believe we should use our dreams to create goals we can work toward and provide ourselves a sense of purpose to push past living an ordinary life. Seeking an extraordinary life requires going out of our comfort zones, welcoming uncertainty, and work through our fears to achieve our goals. The nature of design requires designers to recognize fears and work through them to achieve desired goals. In many ways, I believe some nightmares are visions of our fears and some dreams are roadmaps to defeating those fears. Inspiration is almost always found in the oddest places, and one designer who embraces being inspired by his dreams is Lithuanian-born jewelry designer Algis Abromaitis of JOLITA JEWELLERY.
 
-[![006][6]][6]
+[![006][3]][3]
 
 One week in 2008, Algis had a recurring dream about a bracelet. The dream became so tiring that near the end of the week, he asked a friend to take him to a bead shop so he could buy materials to make a bracelet. After visiting the bead shop, he has been making jewelry ever since. With encouragement from his sister, Jolita, the brand’s co-founder and namesake, Algis decided to make his passion a business. Working from his design studio in London, he meticulously makes each piece offered, opulent, vividly colored statement jewelry in the form of bracelets, earrings, cuffs, and more. Each piece included hand-dyed silks and hand-painted rhinestones, all done by Algis himself. He also includes new and vintage materials from around the world. His method of design creates a collection where no pieces are alike, adding a sense of exclusivity and luxury to the line.
 
@@ -32,56 +33,53 @@ Momento Mori is a genre of art that has been used a motivation for living life t
 
 I was first introduced to JOLITA JEWELLERY over a year ago on [BOTICCA][5], a site where independent designers can sell their products to a global audience. I am so glad to see how far Algis and Jolita have come with their brand. The collection makes me smile and one can’t help but feel happy when wearing one of Algis’ beautiful creations. Check out some of my favorite looks from the JOLITA JEWELLERY Spring/Summer 2013 collection below:
 
-[![028][28]][28]
-[![007][7]][7]
-[![008][8]][8]
-[![009][9]][9]
-[![010][10]][10]
-[![011][11]][11]
-[![012][12]][12]
-[![013][13]][13]
+[![002][6]][6]
+[![004][7]][7]
+[![005][8]][8]
+[![007][9]][9]
+[![008][10]][10]
+[![009][11]][11]
+[![010][12]][12]
+[![011][13]][13]
+[![012][14]][14]
+[![013][15]][15]
 
-JOLITA JEWELLERY is available in several boutiques around the globe and directly from the designer himself. Orders are also accepted for ready-made and bespoke (custom) jewelry designs. For more information on orders and availability, please contact Jolita by [email][18] or visit their [website][19]. Stay updated on JOLITA JEWELLERY news and new collections by subscribing to their [blog][20], liking their [Facebook][21] page, and following them on [Instagram][22] and [Twitter][23].
+JOLITA JEWELLERY is available in several boutiques around the globe and directly from the designer himself. Orders are also accepted for ready-made and bespoke (custom) jewelry designs. For more information on orders and availability, please contact Jolita by [email][16] or visit their [website][17]. Stay updated on JOLITA JEWELLERY news and new collections by subscribing to their [blog][18], liking their [Facebook][19] page, and following them on [Instagram][20] and [Twitter][21].
 
 ---
 
 _CREDITS:_
 
-_[JOLITA JEWELLERY][24]_
+_[JOLITA JEWELLERY][16]_
 
-_[BOTICCA][25]_
+_[BOTICCA][5]_
 
-_[THE ART OF MANLINESS][26]_
+_[THE ART OF MANLINESS][4]_
 
 _Photos courtesy of JOLITA JEWELLERY._
 
-_The post JOLITA JEWELLERY: A DREAM FULFILLED appeared first on [UMAYAMU][27]._
+_This post, [JOLITA JEWELLERY: A DREAM FULFILLED][22], appeared first on [UMAYAMU][23]._
 
-   [1]: {{page.image}}
-   [2]: http://youtu.be/NEH6nLcQam0 (Leap of Faith on YouTube)
-   [3]: http://www.kennyloggins.com/ (Kenny Loggins - Official Website)
+   [1]: http://youtu.be/NEH6nLcQam0 (Leap of Faith on YouTube)
+   [2]: http://www.kennyloggins.com/ (Kenny Loggins - Official Website)
+   [3]: /images/006_jolita.jpg
    [4]: http://www.artofmanliness.com/2012/10/29/memento-mori-art/ (Momento Mori: Art to Help You Meditate on Death and Become a Better Man)
    [5]: https://boticca.com/jolitajewellery/ (BOTICCA)
-   [28]: /images/002_jolita.jpg
-   [6]: /images/006_jolita.jpg
-   [7]: /images/007_jolita.jpg
-   [8]: /images/008_jolita.jpg
-   [9]: /images/009_jolita.jpg
-   [10]: /images/010_jolita.jpg
-   [11]: /images/011_jolita.jpg
-   [12]: /images/012_jolita.jpg
-   [13]: /images/013_jolita.jpg
-   [14]: http://farm6.staticflickr.com/5505/9402753232_562ea5a7ce_o.jpg
-   [15]: http://farm6.staticflickr.com/5492/9402756058_2f5cb540e9_o.jpg
-   [16]: http://farm4.staticflickr.com/3812/9402754356_3e8c08e5c6_o.jpg
-   [17]: http://farm4.staticflickr.com/3747/9402755284_b4f55a8e26_o.jpg
-   [18]: mailto:Jolita@jolitajewellery.com?subject=Hello%20JOLITA!&amp;body=I%20saw%20your%20feature%20on%20UMAYAMU%20and%20want%20more%20information%20about%20the%20JOLITA%20JEWELLERY%20collection.
-   [19]: http://www.jolitajewellery.com/ (JOLITA JEWELLERY)
-   [20]: http://www.jolitajewellery.wordpress.com (JOLITA JEWELLERY Blog)
-   [21]: https://www.facebook.com/jolitajewellery (JOLITAJEWELLERY)
-   [22]: https://instagram.com/jolitajewellery (@JOLITAJEWELLERY)
-   [23]: https://twitter.com/JolitaJewellery (@JOLITAJEWELLERY)
-   [24]: http://www.jolitajewellery.com (JOLITA JEWELLERY)
-   [25]: http://www.boticca.com/ (BOTICCA)
-   [26]: http://www.artofmanliness.com/ (THE ART OF MANLINESS)
-   [27]: http://www.umayamu.com (UMAYAMU)
+   [6]: /images/002_jolita.jpg
+   [7]: /images/004_jolita.jpg
+   [8]: /images/005_jolita.jpg
+   [9]: /images/007_jolita.jpg
+   [10]: /images/008_jolita.jpg
+   [11]: /images/009_jolita.jpg
+   [12]: /images/010_jolita.jpg
+   [13]: /images/011_jolita.jpg
+   [14]: /images/012_jolita.jpg
+   [15]: /images/013_jolita.jpg
+   [16]: mailto:Jolita@jolitajewellery.com?subject=Hello%20JOLITA!&amp;body=I%20saw%20your%20feature%20on%20UMAYAMU%20and%20want%20more%20information%20about%20the%20JOLITA%20JEWELLERY%20collection.
+   [17]: http://www.jolitajewellery.com/ (JOLITA JEWELLERY)
+   [18]: http://www.jolitajewellery.wordpress.com (JOLITA JEWELLERY Blog)
+   [19]: https://www.facebook.com/jolitajewellery (JOLITAJEWELLERY)
+   [20]: https://instagram.com/jolitajewellery (@JOLITAJEWELLERY)
+   [21]: https://twitter.com/JolitaJewellery (@JOLITAJEWELLERY)
+   [22]: {{ post.url }}
+   [23]: http://www.umayamu.com (UMAYAMU)
