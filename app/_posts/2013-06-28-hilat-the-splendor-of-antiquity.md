@@ -10,7 +10,7 @@ image: /images/004_hilat.jpg
 caption: "Hilat Jewellery, Istanbul"
 excerpt: "In this age of technological advancement and mass production, it is refreshing to find designers/artisans who value and honor history, culture, natural materials, and the pursuit of masterly craftsmanship. Embracing these time-honored virtues, artisans are continuing a rich heritage of artistic excellence. One designer who prides himself on this achievement is Hilat Elmas of HILAT."
 ---
-
+ 
 Gold—its warmth and beauty have mesmerized mankind for centuries. As one of the most prized metals on Earth, every civilization has used gold to leave their marks of heritage and interpretations of beauty, adornment, and prestige. The first articles of gold I ever encountered were from the Tutankhamun exhibit (which are now on their way back to Egypt for permanent exhibition at the Cairo Museum). Afterwards, I was introduced to gold jewelry from the Etruscans, known for their micro granulation technique, and the Byzantines and the Ottomans. All four civilizations adored gold and excelled in crafting the malleable metal into some of the most beautiful examples of human skill and imagination. These discoveries definitely influenced my love of history and ancient civilizations.
 
 In this age of technological advancement and mass production, it is refreshing to find designers/artisans who value and honor history, culture, natural materials, and the pursuit of masterly craftsmanship. Embracing these time-honored virtues, artisans are continuing a rich heritage of artistic excellence. One designer who prides himself on this achievement is Hilat Elmas of HILAT.
