@@ -51,7 +51,7 @@ body {
 }
 
 .blog-description {
-  font-family: "futura-pt", "futura-pt", helvetica, arial, sans-serif;
+  font-family: "futura-pt", "futura-pt", futura, helvetica, arial, sans-serif;
   color: #ffffff;
   line-height: 14px;
 }
@@ -63,7 +63,7 @@ a {
 }
 
 #header h1 a {
-  font-family: "futura-pt", "futura-pt", helvetica, arial, sans-serif;
+  font-family: "futura-pt", "futura-pt", futura, helvetica, arial, sans-serif;
   border-bottom: none;
 }
 
@@ -81,7 +81,7 @@ a {
 
 .metadata a, #footer-links a, footer p.promo a, .links a {
   color: #ffffff;
-  font-family: "futura-pt", "futura-pt", helvetica, arial, sans-serif;
+  font-family: "futura-pt", "futura-pt", futura, helvetica, arial, sans-serif;
   border-bottom: none;
 }
 
@@ -95,19 +95,19 @@ a {
 
 .colophon p {
   color: #ffffff;
-  font-family: "futura-pt", "futura-pt", helvetica, arial, sans-serif;
+  font-family: "futura-pt", "futura-pt", futura, helvetica, arial, sans-serif;
 }
 
 /* Global fonts
 ********************************/
 
 body {
-  font-family: "futura-pt", georgia, serif;
+  font-family: "futura-pt", futura, helvetica, sans-serif;
   font-weight: normal;
 }
 
 .title h1, .link-title h1, .chat-title h1, .q h1, .a h1, .album-info h2, footer h2 {
-  font-family: Garamond, "futura-pt", sans serif;
+  font-family: "futura-pt", futura, helvetica, sans-serif;
   font-weight: bold;
 }
 
@@ -170,8 +170,8 @@ body {
   margin-top: 0px;
   text-align: center;
   float: none;
-  border-bottom: 1px solid rgba(136, 136, 136, 0.4);
-  font-family: "futura-pt-n4", "futura-pt", helvetica, arial, sans-serif;
+  border-bottom: 0px; /** 1px solid rgba(136, 136, 136, 0.4)**/
+  font-family: "futura-pt-n4", "futura-pt", futura, helvetica, arial, sans-serif;
   letter-spacing: 10px;
   ul {
     margin-top: 10px;
