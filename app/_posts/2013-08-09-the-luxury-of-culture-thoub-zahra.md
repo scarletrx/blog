@@ -44,9 +44,7 @@ _[KUWAIT GOVERNMENT ONLINE][14]_
 
 _[CHRISTIE’S][15]_
 
-_Photos courtesy of THOUB ZAHRA._
-
-_This post, [THOUB ZAHRA: THE LUXURY OF CULTURE][16], appeared first on [UMAYAMU][17]._
+_Photos courtesy of [THOUB ZAHRA][13]._
 
    [1]: /images/008_thoubzahra.jpg
    [2]: http://www.christies.com/lotfinder/textiles-costume/a-thea-porter-caftan-of-cotton-ikat-5502719-details.aspx (Dame Elizabeth Taylor Auction)
@@ -63,5 +61,3 @@ _This post, [THOUB ZAHRA: THE LUXURY OF CULTURE][16], appeared first on [UMAYAMU
    [13]: https://instagram.com/thoubzahra (THOUB ZAHRA)
    [14]: http://www.e.gov.kw/sites/kgoenglish/portal/pages/visitors/aboutkuwait/cultureandheritage_customsandtraditions.aspx (Kuwait Government Online)
    [15]: http://www.christies.com/lotfinder/textiles-costume/a-thea-porter-caftan-of-cotton-ikat-5502719-details.aspx (CHRISTIE'S: THE COLLECTION OF ELIZABETH TAYLOR)
-   [16]: {{ post.url }}
-   [17]: http://www.umayamu.com (UMAYAMU)

@@ -49,9 +49,7 @@ _[NATIONAL GALLERY OF CANADA][4]_
 
 _[AMERICAN GEM TRADE ASSOCIATION (AGTA)][13]_
 
-Photos courtesy of NVIT BLANCHE
-
-This post, [NVIT BLANCHE: THE RITUALS OF CRAFTSMANSHIP][14], appeared first on [UMAYAMU][15].
+Photos courtesy of [NVIT BLANCHE][1]
 
    [1]: http://www.nvitblanche.com (NVIT BLANCHE)
    [2]: /images/002_nvitblanche.jpg
@@ -66,5 +64,3 @@ This post, [NVIT BLANCHE: THE RITUALS OF CRAFTSMANSHIP][14], appeared first on [
    [11]: mailto:nvit.blanche@gmail.com?subject=Hello%20NVIT%20BLANCHE!&amp;body=I%20saw%20your%20feature%20on%20UMAYAMU%20and%20want%20more%20information%20about%20your%20collection.
    [12]: http://instagram.com/nvitblanche
    [13]: http://www.agta.org/awards/
-   [14]: {{ post.url }}
-   [15]: http://www.umayamu.com (UMAYAMU)

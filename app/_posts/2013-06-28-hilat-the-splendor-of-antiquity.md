@@ -40,9 +40,7 @@ _[LUXE INTELLIGENCE][11]_
 
 _[COUTURE MUSINGS][12]_
 
-_All photos courtesy of HILAT._
-
-_This post, [HILAT: THE SPLENDOR OF ANTIQUITY][13], appeared first on [UMAYAMU][14]._
+_All photos courtesy of [HILAT][8]._
 
    [1]: /images/001_hilat.jpg
    [2]: /images/002_hilat.jpg
@@ -55,5 +53,3 @@ _This post, [HILAT: THE SPLENDOR OF ANTIQUITY][13], appeared first on [UMAYAMU][
    [10]: http://on.fb.me/1aUi6Jl
    [11]: http://on.fb.me/128IBUg
    [12]: http://bit.ly/14eP2bQ
-   [13]: {{ post.url }}
-   [14]: http://www.umayamu.com

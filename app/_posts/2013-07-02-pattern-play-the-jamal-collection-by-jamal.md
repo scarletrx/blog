@@ -31,9 +31,7 @@ _Credits:_
 
 _[JAMALCOLLECTION][7]_
 
-_All photos courtesy of Jamal Al-Najadah._
-
-_The post [PATTERN PLAY: THE JAMAL COLLECTION BY JAMAL AL-NAJADAH][8] appeared first on [UMAYAMU][9]._
+_All photos courtesy of [JAMAL COLLECTION][7]._
 
 [1]: /images/030_jamal.jpg
 [2]: /images/001_jamal.jpg
@@ -42,5 +40,3 @@ _The post [PATTERN PLAY: THE JAMAL COLLECTION BY JAMAL AL-NAJADAH][8] appeared f
 [5]: /images/024_jamal.jpg
 [6]: http://www.instagram.com/jamal_collection
 [7]: http://www.instagram.com/jamal_collection
-[8]: {{ page.url }}
-[9]: http://www.umayamu.com

@@ -36,9 +36,7 @@ _Credits:_
 
 _[LAMLI][21]_
 
-_All photos courtesy of LAMLI._
-
-_The post [LAMLI: A QUEST FOR MINIMALIST LUXURY][22]&nbsp;appeared first on&nbsp;[UMAYAMU][23]._
+_All photos courtesy of [LAMLI][21]._
 
    [1]: /images/001_lamli.jpg
    [2]: /images/004_lamli.jpg
@@ -61,5 +59,3 @@ _The post [LAMLI: A QUEST FOR MINIMALIST LUXURY][22]&nbsp;appeared first on&nbsp
    [19]: http://pinterest.com/lamli/ (LAMLI)
    [20]: https://twitter.com/Lamlifashion (@LAMLIFASHION)
    [21]: http://www.lamli.net (LAMLI)
-   [22]: {{ page.url }}
-   [23]: http://www.umayamu.com (UMAYAMU)

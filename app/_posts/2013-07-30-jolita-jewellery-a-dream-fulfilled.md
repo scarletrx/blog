@@ -56,9 +56,7 @@ _[BOTICCA][5]_
 
 _[THE ART OF MANLINESS][4]_
 
-_Photos courtesy of JOLITA JEWELLERY._
-
-_This post, [JOLITA JEWELLERY: A DREAM FULFILLED][22], appeared first on [UMAYAMU][23]._
+_Photos courtesy of [JOLITA JEWELLERY][16]._
 
    [1]: http://youtu.be/NEH6nLcQam0 (Leap of Faith on YouTube)
    [2]: http://www.kennyloggins.com/ (Kenny Loggins - Official Website)
@@ -81,5 +79,3 @@ _This post, [JOLITA JEWELLERY: A DREAM FULFILLED][22], appeared first on [UMAYAM
    [19]: https://www.facebook.com/jolitajewellery (JOLITAJEWELLERY)
    [20]: https://instagram.com/jolitajewellery (@JOLITAJEWELLERY)
    [21]: https://twitter.com/JolitaJewellery (@JOLITAJEWELLERY)
-   [22]: {{ post.url }}
-   [23]: http://www.umayamu.com (UMAYAMU)
