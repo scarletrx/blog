@@ -51,9 +51,7 @@ _[PERIOD MEDIA][19]_
 
 _[CATHÉDRALE NOTRE-DAME DE PARIS][20]_
 
-_Photos courtesy of ROULE &amp; COMPANY FINE JEWELRY and PERIOD MEDIA_
-
-_This post, [ROULE &amp; COMPANY: PLAYING WITH YOUR JEWELS][21], appeared first on [UMAYAMU][22]._
+_Photos courtesy of [ROULE &amp; COMPANY FINE JEWELRY][14] and [PERIOD MEDIA][19]_
 
    [2]: /images/002_rouleco.jpg
    [3]: /images/003_rouleco.jpg
@@ -74,5 +72,3 @@ _This post, [ROULE &amp; COMPANY: PLAYING WITH YOUR JEWELS][21], appeared first 
    [18]: http://www.pinterest.com/rouleandcompany
    [19]: http://www.periodmedia.com
    [20]: http://www.notredamedeparis.fr/
-   [21]: {{ post.url }}
-   [22]: http://www.umayamu.com/

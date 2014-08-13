@@ -31,7 +31,7 @@ I am particularly drawn to their Luxury and Limited Edition collections. They ar
 
 In addition to jalabiyat, Wahat Al-Jalabiya also offers kaftan, jalabib (flowing, casual dresses), hijab (scarves), and even bridal lingerie and nightwear. With locations in Egypt, Saudi Arabia, and Yemen, their collections are readily available for viewing and purchasing. For orders outside the Gulf region, orders can be made at their online store. To view more of their collections, find the nearest location, or make an order online, please visit their [website][12].
 
-Stay up to date with new Wahat Al-Jalabiya collections on [Facebook][13], [Pinterest][14], [Twitter][15], [ YouTube][16], and their [blog][17].
+Stay up to date with new Wahat Al-Jalabiya collections on [Facebook][13], [Pinterest][14], [Twitter][15], [YouTube][16], and their [blog][17].
 
 ----
 
@@ -39,9 +39,7 @@ _Credits:_
 
 _[WAHAT AL-JALABIYA][13]_
 
-_All photos courtesy of WAHAT AL-JALABIYA._
-
-_The post [WAHAT AL-JALABIYA: JEWELS IN THE DESERT][18]&nbsp;appeared first on&nbsp;[UMAYAMU][19]._
+_All photos courtesy of [WAHAT AL-JALABIYA][13]._
 
    [1]: /images/008_wahat.jpg
    [2]: http://www.aquila-style.com/ (AQUILA STYLE MAGAZINE)
@@ -60,5 +58,3 @@ _The post [WAHAT AL-JALABIYA: JEWELS IN THE DESERT][18]&nbsp;appeared first on&n
    [15]: http://twitter.com/#!/WahatAljalabiya (@WAHATALJALABIYA)
    [16]: http://www.youtube.com/user/WahatAljalabiya (WAHAT AL-JALABIYA)
    [17]: http://blog.aljalabiya.com/ (WAHAT AL-JALABIYA BLOG)
-   [18]: {{ page.url }}
-   [19]: http://www.umayamu.com (UMAYAMU)

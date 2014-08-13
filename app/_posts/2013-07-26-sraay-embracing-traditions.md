@@ -45,9 +45,7 @@ _[DR. KEIREINE CANAVAN][20]_
 
 _[BAYT AL-SADU][21]_
 
-_Photos courtesy of SRAAY._
-
-_This post, [SRAAY: EMBRACING TRADITIONS][22], appeared first on [UMAYAMU][23]._
+_Photos courtesy of [SRAAY][19]._
 
    [1]: http://instagram.com/whitexpo (WHITE EXPO)
    [2]: http://www.360mall.com/ (360 MALL)
@@ -70,5 +68,3 @@ _This post, [SRAAY: EMBRACING TRADITIONS][22], appeared first on [UMAYAMU][23]._
    [19]: https://instagram.com/sraay_kwt (SRAAY)
    [20]: http://alsaduweaving.wordpress.com/ (AL-SADU WEAVING IN KUWAIT)
    [21]: http://www.alsadu.org.kw/home.php (BAYT AL-SADU)
-   [22]: {{ post.url }}
-   [23]: http://www.umayamu.com (UMAYAMU)

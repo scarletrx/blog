@@ -46,9 +46,7 @@ _[DAR EL AMAL][24]_
 
 _[TAGS][25]_
 
-_Photos courtesy of SARAH’S BAG and TAGS._
-
-_This post, [SARAH’S BAG: THE ART OF SOCIAL CHANGE][26], appeared first on [UMAYAMU][27]._
+_Photos courtesy of [SARAH’S BAG][23] and [TAGS][25]._
 
    [1]: http://www.icrw.org/what-we-do/economic-empowerment (ICRW)
    [2]: http://www.daralamal.org/ (Dar el Amal)
@@ -75,5 +73,3 @@ _This post, [SARAH’S BAG: THE ART OF SOCIAL CHANGE][26], appeared first on [UM
    [23]: http://www.sarahsbag.com/ (SARAH'S BAG)
    [24]: http://www.daralamal.org/ (DAR EL AMAL)
    [25]: http://www.tags.com/ (TAGS)
-   [26]: {{ page.url }}
-   [27]: http://www.umayamu.com (UMAYAMU)

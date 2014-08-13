@@ -34,9 +34,7 @@ _[HIJAB REVIVAL][10]_
 
 _[THE HIJAB BLOG][11]_
 
-_Photos courtesy of THE ABAYA COMPANY, HIJAB REVIVAL, AND THE HIJAB BLOG._
-
-_This post, [AAMAAL LOVES THE ABAYA COMPANY][12], appeared first on [UMAYAMU][13]._
+_Photos courtesy of [THE ABAYA COMPANY][9], [HIJAB REVIVAL][10], AND [THE HIJAB BLOG][11]._
 
    [1]: /images/006_abayaco.jpg
    [2]: /images/005_abayaco.jpg
@@ -49,5 +47,3 @@ _This post, [AAMAAL LOVES THE ABAYA COMPANY][12], appeared first on [UMAYAMU][13
    [9]: https://instagram.com/theabayacompany (THE ABAYA COMPANY)
    [10]: http://www.hijabrevival.com/2013/01/the-abaya-company.html (HIJAB REVIVAL)
    [11]: http://thehijablog.com/2013/05/19/east-meets-far-east/ (THE HIJAB BLOG)
-   [12]: {{ post.url }}
-   [13]: http://www.umayamu.com (UMAYAMU)
