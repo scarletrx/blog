@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2015-10-18 13:28"
-title: "LOUIS MOINET: HOROLOGICAL MEMORIES"
+title: "A BEAUTIFUL MEASUREMENT OF TIME: THE LOUIS MOINET CHRONOGRAPH MEMORIS"
 tags: louismoinet luxury timepieces craftsmanship culture heritage chronograph anniversary memoris
 categories: jewellery
 comments: false
