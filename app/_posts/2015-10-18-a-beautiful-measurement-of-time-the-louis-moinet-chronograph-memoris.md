@@ -23,18 +23,19 @@ This timepiece is a masterful tribute to the Moinet legacy of innovative horolog
 
 [![003][5]][5]
 
-Where once chronograph complications were unseen, Ateliers Louis Moinet has masterfully made this function the focal point of the piece, harkening back to Moinet’s main pursuit: to create a masterful timepiece, beautifully innovative in function as it is in form. And so remarkable has their achievement been that the Memoris has been nominated for the  [Grand Prix d'Horlogerie de Genève (GPHG)][9], the "Oscars' of the watch world, which will take place on October 29th at the Grand Theatre de Geneve.
+Where once chronograph complications were unseen, Ateliers Louis Moinet has masterfully made this function the focal point of the piece, harkening back to Moinet’s main pursuit: to create a masterful timepiece, beautifully innovative in function as it is in form. And so remarkable has their achievement been that the Memoris has been nominated for the [Grand Prix d'Horlogerie de Genève (GPHG)][9], the 'Oscars' of the watch world, which will take place on [October 29th][12] at the [Grand Théâtre de Genève][11].
 
 [![004][10]][10]
 
 On this most wondrous occasion, Ateliers Louis Moinet has crafted 3 limited editions and 60 copies of the Memoris. Available in 18K pink, white rhodium-plated, and white-blued gold, the Memoris is a true testament to the innovative spirit and dedication of one of the most masterfully talented watchmakers to have ever lived.
 
-[][11]
+[][13]
 ----
 
 _Credits:_
 
 _[ATELIERS LOUIS MOINET][7]_
+
 Photos courtesy of [Ateliers Louis Moinet][7]
 
    [1]: http://www.louismoinet.com/louismoinet-timeline.php#biography (Louis Moinet Biography)
@@ -47,4 +48,6 @@ Photos courtesy of [Ateliers Louis Moinet][7]
    [8]: http://www.louismoinet.com/collection-memoris-p59.php
    [9]: http://www.gphg.org/watches/en/content/memoris (GPHG)
    [10]: /images/004_memoris.jpg
-   [11]: http://spn.so/7rl7dwEUeks
+   [11]: http://www.geneveopera.ch/opera_4
+   [12]: http://www.gphg.org/watches/en/grand-prix-dhorlogerie-de-geneve/2015/PRE
+   [13]: http://spn.so/7rl7dwEUeks
