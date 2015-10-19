@@ -17,15 +17,15 @@ In my opinion, refined taste in timepieces can provide an introspective example 
 
 But Moinet’s most treasured innovation, the [Moinet _Compteur de Tierces_][6], was not recognized for its tremendous advancements in engineering and accuracy in his lifetime. This magnificent feat of ingenuity and precision was 'lost' to the world of horology until its discovery during Christie's 2012 ['Important Watches'][13] auction, where it was purchased by Ateliers Louis Moinet CEO, [Jean Marie Schaller][14]. Now, at the bicentenary of his greatest achievement, [Ateliers Louis Moinet][7] celebrates his innovation and their tenth anniversary with their own innovation, the [Memoris][8], the world’s first chronograph timepiece. 
 
-[002][4]
+[![002][4]][4]
 
 This timepiece is a masterful tribute to the Moinet legacy of innovative horology. The chronograph function is the heart of the timepiece, on display for all to see. In addition to this sheer beauty in form and function of this custom designed chronograph, its “Energie Plus” automatic pawl winding system allows the timepiece to be wound in both directions while maintaining a level of precision and accuracy unseen within any timepiece currently made. And this turns the current idea and definition of a luxury timepiece almost inside out. 
 
-[003][5]
+[![003][5]][5]
 
 Where once chronograph complications were unseen, Ateliers Louis Moinet has masterfully made this function the focal point of the piece, harkening back to Moinet’s main pursuit: to create a masterful timepiece, beautifully innovative in function as it is in form. And so remarkable has their achievement been that the Memoris has been nominated for the [Grand Prix d'Horlogerie de Genève (GPHG)][9], the 'Oscars' of the watch world, which will take place on [October 29th][12] at the [Grand Théâtre de Genève][11].
 
-[004][10]
+[![004][10]][10]
 
 On this most wondrous occasion, Ateliers Louis Moinet has crafted 3 limited editions and 60 copies of the Memoris. Available in 18K pink, white rhodium-plated, and white-blued gold, the Memoris is a true testament to the innovative spirit and dedication of one of the most masterfully talented watchmakers to have ever lived.
 
