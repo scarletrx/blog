@@ -27,7 +27,7 @@ Where once chronograph complications were unseen, Ateliers Louis Moinet has mast
 
 [![004][10]][10]
 
-On this most wondrous occasion, Ateliers Louis Moinet has crafted 3 limited editions and 60 copies of the Memoris. Available in 18K pink, white rhodium-plated, and white-blued gold, the Memoris is a true testament to the innovative spirit and dedication of one of the most masterfully talented watchmakers to have ever lived.
+On this most wondrous occasion, Ateliers Louis Moinet has crafted 3 limited editions, 60 copies each, of the Memoris. Available in 18K rose gold, white rhodium-plated gold mainplate, and white-blued gold mainplate, the Memoris is a true testament to the innovative spirit and dedication of one of the most masterfully talented watchmakers to have ever lived.
 
 <img src="http://spn.so/d6c2977a89e524de.gif" width="1" height="1" style="width:1px!important; height:1px!important;" />
 ----
@@ -36,7 +36,7 @@ _Credits:_
 
 _[ATELIERS LOUIS MOINET][7]_
 
-Photos courtesy of [Ateliers Louis Moinet][7]
+Photos courtesy of [Ateliers Louis Moinet Press Office][7]
 
    [1]: http://www.louismoinet.com/louismoinet-timeline.php#biography (Louis Moinet Biography)
    [2]: http://www.breguet.com/en/house-breguet/personalities/abraham-louis-breguet (Breguet Biography)
