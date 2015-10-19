@@ -28,7 +28,7 @@ On this most wondrous occasion, Ateliers Louis Moinet has crafted 3 limited edit
 
 _Credits:_
 
-_[LOUIS MOINET][7]_
+_[ATELIERS LOUIS MOINET][7]_
 Photos courtesy of [Ateliers Louis Moinet][7]
 
    [1]: http://www.louismoinet.com/louismoinet-timeline.php#biography (Louis Moinet Biography)
