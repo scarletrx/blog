@@ -19,7 +19,7 @@ But Moinet’s most treasured innovation, the [Moinet _Compteur de Tierces_][6],
 
 [![002][4]][4]
 
-This timepiece is a masterful tribute to the Moinet legacy of innovative horology. The chronograph function is the heart of the timepiece, on display for all to see. In addition to this sheer beauty in form and function of this custom designed chronograph, its “Energie Plus” automatic pawl winding system allows the timepiece to be wound in both directions while maintaining a level of precision and accuracy unseen within any timepiece currently made. And this turns the current idea and definition of a luxury timepiece almost inside out. 
+This timepiece is a masterful tribute to the Moinet legacy of innovative horology. The chronograph function is the heart of the timepiece, on display for all to see. In addition to the sheer beauty in form and function of this custom designed chronograph, its “Energie Plus” automatic pawl winding system allows the timepiece to be wound in both directions while maintaining a level of precision and accuracy unseen within any timepiece currently made. And this turns the current idea and definition of a luxury timepiece almost inside out. 
 
 [![003][5]][5]
 
