@@ -29,7 +29,7 @@ Where once chronograph complications were unseen, Ateliers Louis Moinet has mast
 
 On this most wondrous occasion, Ateliers Louis Moinet has crafted 3 limited editions and 60 copies of the Memoris. Available in 18K pink, white rhodium-plated, and white-blued gold, the Memoris is a true testament to the innovative spirit and dedication of one of the most masterfully talented watchmakers to have ever lived.
 
-[][15]
+<img src="http://spn.so/d6c2977a89e524de.gif" width="1" height="1" style="width:1px!important; height:1px!important;" />
 ----
 
 _Credits:_
@@ -52,4 +52,3 @@ Photos courtesy of [Ateliers Louis Moinet][7]
    [12]: http://www.gphg.org/watches/en/grand-prix-dhorlogerie-de-geneve/2015/PRE
    [13]: http://www.christies.com/lotfinder/watches/louis-moinet-a-rare-large-and-usual-5553708-details.aspx (Christie's 2012 Important Watches)
    [14]: http://www.watchonista.com/2914/watchonista-blog/news/jean-marie-schaller-memories-future (Watchonista Interview)
-   [15]: http://spn.so/7rl7dwEUeks
