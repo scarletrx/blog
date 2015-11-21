@@ -14,7 +14,7 @@ layout: default
     </div>
 
     <div class="metadata">
-        <time>{{ page.date | date_to_string }}</time><br /><br />
+        <!-- <time>{{ page.date | date_to_string }}</time><br /><br /> -->
         {% for tag in page.tags %}
         <a href="/tagged/{{tag}}">#{{ tag }}</a>
         {% endfor %}
