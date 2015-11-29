@@ -4,7 +4,7 @@ title: Contact
 ---
 
 
-We love featuring exquisite discoveries from Africa, the Gulf, and Southeast Asia. Not from these areas? Excellent! We would be honoured to hear from you. No matter where a discovery is found, if we love it, we will feature it.
+We love featuring exquisite discoveries from Africa, the Middle East, and Southeast Asia. Not from these areas? Excellent! We would be honoured to hear from you. No matter where a discovery is found, if we love it, we will feature it.
 <br />
 <br />
 We do not trade product for feature. Our acceptance of an item or product does not guarantee a feature. If we love it, we *will* feature it.
