@@ -19,7 +19,7 @@ For press &amp; media requests and interviews: *<press@umayamu.com>*
 For advertising inquiries: *<advertising@umayamu.com>*
 <br />
 <br />
-For press releases, invitations, and collaboration opportunities: *<pr@umayamu.com>*
+For press release &amp; collection submissions, invitations, and collaboration inquiries: *<pr@umayamu.com>*
 <br />
 <br />
 *Inquiries are answered within 48 hours, Monday through Friday, circumstances permitting.*
