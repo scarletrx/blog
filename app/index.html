@@ -18,7 +18,7 @@ title: UMAYAMU
         </div>
 
         <div class="metadata">
-            <time>{{ post.date | date_to_string }}</time><br><br>
+            <!-- <time>{{ post.date | date_to_string }}</time> --> <br><br>
             {% for tag in post.tags %}
             <a href="/tagged/{{tag}}">#{{ tag }}</a>
             {% endfor %}
