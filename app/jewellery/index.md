@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Jewellery &amp Timepieces
+title: Jewellery
 ---
 
 
-This is where our Jewellery &amp; Timepiece posts live.
+This is where our Jewellery posts live.
