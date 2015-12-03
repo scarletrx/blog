@@ -16,10 +16,10 @@ For general inquiries: *<info@umayamu.com>*
 For press &amp; media requests and interviews: *<press@umayamu.com>*
 <br />
 <br />
-For advertising inquiries: *<advertising@umayamu.com>*
+For brand collaboration inquiries: *<collaborations@umayamu.com>*
 <br />
 <br />
-For press release &amp; collection submissions, invitations, and collaboration inquiries: *<pr@umayamu.com>*
+For press release &amp; collection submissions, event invitations, and speaking opportunities: *<pr@umayamu.com>*
 <br />
 <br />
 *Inquiries are answered within 48 hours, Monday through Friday, circumstances permitting.*
